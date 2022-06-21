@@ -1,9 +1,9 @@
 ### Welcome, pleasure! Isac Lendengue Cavalcante :earth_americas:
 
 
-:student:	I love working with technology and creating solutions. I'm Graduating in Information Systems at UniFametro.  
-:computer: I'm a Full Stack Developer.  
-:left_speech_bubble: I am open to new technologies.
+:student:   I'm Graduating in Information Systems at UniFametro.  
+:computer: I'm a Back-end Developer.  
+:left_speech_bubble: A new project in Laravel? Call me and I'll go!!!
 <h3> Contato </h3>
 <a href = "mailto:isaccavalcante.ti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FBBC05?style=for-the-badge&logo=google&logoColor=white " target="_blank">
