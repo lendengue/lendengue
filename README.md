@@ -1,9 +1,9 @@
 ### Welcome, pleasure! Isac Lendengue Cavalcante :earth_americas:
 
 
-:student:   I'm Graduating in Information Systems at UniFametro.  
-:computer: I'm a Back-end Developer.  
-:left_speech_bubble: A new project in Laravel? Call me and I'll go!!!
+:student: I have a Bachelor's degree in Information Systems from UniFametro.  
+:computer: I'm a passionate Back-end Developer with a love for creating scalable and efficient systems.  
+:left_speech_bubble: Laravel projects? Count me in! Let's make it happen.
 <h3> Contact </h3>
 <a href = "mailto:isaccavalcante.ti@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-FBBC05?style=for-the-badge&logo=google&logoColor=white " target="_blank">
@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"    target="_blank">
 </a> 
 -->
-<a href="https://www.linkedin.com/in/isac-cavalcante-3035001ba/" target="_blank">
+<a href="https://www.linkedin.com/in/isac-lendengue-3035001ba/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"> 
 </a>
 <!-- <a href="https://api.whatsapp.com/send?phone=5585982062616" target="_blank">
@@ -41,10 +41,13 @@
 <!--   <img align="center" alt="nodejs" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"> -->
 <!--   <img align="center" alt="express" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> -->
 <hr>
-<h3> IDE </h3>
-  <img align="center" alt="vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<hr>
+    
 <!-- <h3> Learning... </h3>
   <img align="center" alt="python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div> -->
 <!--  <hr> -->
+<h3> Check My Projects </h3>
+<div>
+    <p>Feel free to explore the projects I’ve been working on and get a better idea of my development skills.</p>
+    :link: <a href="https://github.com/lendengue?tab=repositories" target="_blank">My repositories</a><br>
+</div>
